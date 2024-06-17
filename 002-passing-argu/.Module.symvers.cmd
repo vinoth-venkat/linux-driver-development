@@ -1,1 +1,0 @@
-savedcmd_/home/neevee/linux-driver-development/002-passing-argu/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/neevee/linux-driver-development/002-passing-argu/Module.symvers -T /home/neevee/linux-driver-development/002-passing-argu/modules.order -i Module.symvers -e 
